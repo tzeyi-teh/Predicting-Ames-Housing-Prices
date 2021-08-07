@@ -1,4 +1,4 @@
-# Ames Housing Data and Kaggle Challenge
+# Predicting Ames Housing Prices
 
 
 ## Problem Statement
